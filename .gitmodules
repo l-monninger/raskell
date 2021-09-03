@@ -1,0 +1,3 @@
+[submodule "misc/haskell-speed-poc"]
+	path = misc/haskell-speed-poc
+	url = https://github.com/l-monninger/haskell-speed-poc
